@@ -1,0 +1,17 @@
+body{
+    background-color: blueviolet;
+}
+h3{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_objects,#Object_name,#Accuracy{
+    color:white;
+    font-size: 25px;
+    font-weight: bolder;
+}
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 2px solid white;
+}
